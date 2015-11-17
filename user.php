@@ -1,3 +1,3 @@
 <?php
-echo' Connection';
+echo' Connection ok';
 ?>
